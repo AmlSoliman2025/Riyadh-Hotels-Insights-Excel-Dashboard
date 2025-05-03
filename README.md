@@ -25,7 +25,7 @@ This Excel dashboard visualizes insights from 55 hotels in Riyadh, Saudi Arabia.
 ## 📁 Files
 - `Riyadh_Hotels_Dashboard.xlsx`: The original Excel dashboard
 - `assets/dashboard_screenshot.png`: Screenshot of the dashboard
-- link of a video for the dashboard
+- link of a video for the dashboard  https://youtu.be/m5UaV0-43CQ?si=OihPLPoPWb-sAMnN
 
 ## ✍️ Author
 Aml Soliman
