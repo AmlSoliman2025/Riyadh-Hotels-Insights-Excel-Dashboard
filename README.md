@@ -29,5 +29,6 @@ This Excel dashboard visualizes insights from 55 hotels in Riyadh, Saudi Arabia.
 
 ## ✍️ Author
 Aml Soliman
-www.linkedin.com/in/aml-soliman-27a080154
-amlsoliman2013@yahoo.com
+[www.linkedin.com/in/aml-soliman-27a080154]
+
+[amlsoliman2013@yahoo.com]
